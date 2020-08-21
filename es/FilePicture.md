@@ -24,14 +24,11 @@ Dillinger es un editor HTML5 Markdown de AngularJS, habilitado para la nube, lis
 
 # cierto
 
-- Importe un archivo HTML y observe cómo se convierte mágicamente a Markdown
-- Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
-
 Tú también puedes:
 
-- Importe y guarde archivos de GitHub, Dropbox, Google Drive y One Drive
-- Arrastre y suelte archivos HTML y de rebajas en Dillinger
-- Exportar documentos como Markdown, HTML y PDF
+- Importe un archivo HTML y observe cómo se convierte mágicamente a Markdown
+- Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
+- Export documents as Markdown, HTML and PDF
 
 Markdown es un lenguaje de marcado ligero basado en las convenciones de formato que la gente usa naturalmente en el correo electrónico. Como escribe [John Gruber] en el [sitio de Markdown] [df1]
 
@@ -41,19 +38,19 @@ Este texto que aparece aquí es *en realidad* escrito en Markdown! Para familiar
 
 ### falso
 
-Dillinger utiliza varios proyectos de código abierto para funcionar correctamente:
+Dillinger utiliza varios proyectos de código abierto para funcionar correctamente:<br>[Ace Editor]: increíble editor de texto basado en la web<br>[markdown-it] - Analizador de Markdown bien hecho. Rápido y fácil de extender.<br>[Twitter Bootstrap]: excelente plantilla de interfaz de usuario para aplicaciones web modernas<br>[AngularJS] - ¡HTML mejorado para aplicaciones web!<br>[AngularJS] - ¡HTML mejorado para aplicaciones web!<br>[node.js]: E / S con eventos para el backend<br>[Express]: marco de aplicación de red rápido de node.js [@tjholowaychuk]
 
-- [AngularJS] - ¡HTML mejorado para aplicaciones web!
-- [Ace Editor]: increíble editor de texto basado en la web
-- [markdown-it] - Analizador de Markdown bien hecho. Rápido y fácil de extender.
-- [Twitter Bootstrap]: excelente plantilla de interfaz de usuario para aplicaciones web modernas
-- [node.js]: E / S con eventos para el backend
-- [Express]: marco de aplicación de red rápido de node.js [@tjholowaychuk]
-- [Gulp]: el sistema de compilación de transmisión
-- [Breakdance](https://breakdance.github.io/breakdance/) - conversor de HTML a Markdown
+- Importe y guarde archivos de GitHub, Dropbox, Google Drive y One Drive
+- Arrastre y suelte archivos HTML y de rebajas en Dillinger
+- Exportar documentos como Markdown, HTML y PDF
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
 - [jQuery] - duh
 
-Y, por supuesto, Dillinger en sí es de código abierto con un [repositorio público] [eneldo] en GitHub.
+Y, por supuesto, Dillinger en sí es de código abierto con un [repositorio público] [eneldo] en GitHub.<br>[jQuery][ - duh<br>/>Breakdance - conversor de HTML a Markdown<br>[Gulp]: el sistema de compilación de transmisión](https://breakdance.github.io/breakdance/)
 
 ### Instalación
 
