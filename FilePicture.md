@@ -75,6 +75,7 @@ Install the dependencies and devDependencies and start the server.
 $ cd dillinger
 $ npm install -d
 $ node app
+фыафафуафа
 ```
 
 For production environments...
